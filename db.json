@@ -1,0 +1,28 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "QA Down",
+      "attention": false,
+      "tech": "Ramya Rajendra",
+      "date": "2020-06-17T03:47:14.413Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Ramya",
+      "lastName": "Rajendra",
+      "id": 2
+    },
+    {
+      "firstName": "Nihar",
+      "lastName": "Darji",
+      "id": 3
+    },
+    {
+      "firstName": "Yash",
+      "lastName": "Navdiwala",
+      "id": 4
+    }
+  ]
+}
